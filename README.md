@@ -1,2 +1,1 @@
-# EducationApp
-Hackathon
+# Tech-Hackathon
